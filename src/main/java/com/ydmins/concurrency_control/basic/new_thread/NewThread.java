@@ -2,11 +2,11 @@
  * File Name : NewThread
  * Author : @YdMinS
  * Date : 2024-09-25
- * Description : This class tests statuses of generated threads.
+ * Description : This class tests the states of generated threads.
  * Reference : The Complete Coding Interview Guide in Java
  */
 
-package com.ydmins.concurrency_control.basic;
+package com.ydmins.concurrency_control.basic.new_thread;
 
 import java.lang.*;
 
